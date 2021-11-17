@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c0c2e962-e5e4-0a66-87c2-640ab10e35a1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Power: Interpersonal, Organizational and Global Dimensions",
+  "course_description": "Using examples from anthropology and sociology alongside classical and contemporary social theory, this course explores the nature of dominant and subordinate relationships, types of legitimate authority, and practices of resistance. The course also examines how we are influenced in subtle ways by the people around us, who makes controlling decisions in the family, how people get ahead at work, and whether democracies, in fact, reflect the \"will of the people.\"\n",
+  "department_numbers": [
+    "21A",
+    "17"
+  ],
+  "extra_course_numbers": "17.045J",
+  "primary_course_number": "21A.245J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
